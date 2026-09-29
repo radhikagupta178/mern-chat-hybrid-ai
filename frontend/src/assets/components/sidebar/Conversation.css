@@ -1,0 +1,11 @@
+.circle {
+    display: flex;
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    border-radius: 50%;
+  }
+
+  .isSelected{
+    color: #a64d79
+  }

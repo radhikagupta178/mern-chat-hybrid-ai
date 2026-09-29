@@ -1,0 +1,15 @@
+.conversationStarter{
+    width:300px; /* or whatever width you want. */
+   max-width:300px;
+   }
+
+   .divClass{
+    height: 30rem !important;
+    overflow: auto;
+   }
+
+   .userTitle{
+    position: absolute;
+    text-shadow: 0 0 black;
+    width: -webkit-fill-available
+   }
